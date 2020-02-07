@@ -1,17 +1,26 @@
 # DevOpsDays and Conference Resource
 
-This repository is intended to include lots of sharable materials for DevOpsDays and other conference events. The intent is to use this as a storage and sharable repository for anyone that might need code snippets or links to sharable documents, etc. This README file should be periodically edited and organized as a reference to all materials contained herein. Links to external documents will be found in here as well as instructions for use. When possible, things will be recreated and added directly to this repository.
+Welcome to the DevOpsDays Resource Repo. The intent of this repository is to try and capture the knowledge and practice built up over the decade of DevOpsDays conferences happening world wide. Many of us run into the same problems, and are all learning from scratch. Let's leverage our community to put on the best events possible regardless of how experienced we are individually.
 
-## Using Twilio Functions
+## Using This Resource
 
-To use the functions in this folder you'll have to have setup a Twilio account and have already purchased a number that supports SMS and Voice at least.
+This is an emerging resource and I'm not quite sure what it's going to look like yet. The intention is to capture our collective knowledge and practices in an easily referenced location. In an ideal world you should be able to navigate the knowledge base from the GitHub repo or attendant website cobbled together out of piles of markdown, but I didn't want to use exclusively a web-page/wiki. I want to be able to include code snippets as they become relevant (see the Twilio folder). Maybe there's a hybrid case here for something more navigable and pretty and some code storage.
 
-1. Login to your twilio account and navigate to Functions
-1. Create a new function and select the "Blank" template
-1. Replace any code in that function with the code from one of the files here.
-1. Edit or create any necessary environment variables
-1. Under your Twilio number, assign incoming voice or messages to the appropriate function.
+For now, feel free to submit PRs to update with your practices, runbooks, handy code, etc. in clearly marked files and in subfolders as it might make sense. A Contribution document will be drafted as a good organizational structure emerges.  
 
-This should get update later with specific steps for the functions in question, but this serves as a placeholder for now.
 
-Happy Calling.
+## Minimally Viable DevOpsDays
+(The idea here is to capture, what do I need to do in order to execute a DevOpsDays Conference. If a document doesn't exist, please feel free to contribute. We're working on it. In our free time, as ever.)
+
+1. What makes a conference a DevOpsDays?
+1. Day Of Event Execution — What do I need?
+1. Organizers, Volunteers, Organizations & Contracts: Everything about the folks putting on the Conference
+1. Venues
+1. Food
+1. A/V Equipment, terminology, common configurations, and nice things for speakers
+1. Speakers and Speaking
+1. Building your Program, multi-tracking, single-tracking, workshops, and pre-event days
+1. Open Spaces
+1. Sponsors and Selling Sponsorships
+1. Attendees, Ticket Sales & Marketing
+1. Whatever I forgot at this point.
